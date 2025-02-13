@@ -118,7 +118,7 @@ export const MarketAssetsListContainer = () => {
           {showFrozenMarketsToggle && (
             <Warning severity="info">
               <Trans>
-                These assets are temporarily frozen or paused by MoreMarkets community decisions,
+                {/* These assets are temporarily frozen or paused by MoreMarkets community decisions,
                 meaning that further supply / borrow, or rate swap of these assets are unavailable.
                 Withdrawals and debt repayments are allowed. Follow the{' '}
                 <Link
@@ -133,7 +133,10 @@ export const MarketAssetsListContainer = () => {
                 >
                   More governance forum
                 </Link>{' '}
-                for further updates.
+                for further updates. */}
+                These assets are temporarily frozen or paused by MORE Markets community decisions,
+                meaning that further supply / borrow, or rate swap of these assets are unavailable.
+                Withdrawals and debt repayments are allowed.
               </Trans>
             </Warning>
           )}

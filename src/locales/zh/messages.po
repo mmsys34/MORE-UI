@@ -971,8 +971,8 @@ msgid "E-Mode increases your LTV for a selected category of assets up to<0/>. <1
 msgstr "E-Mode 将选定资产类别的 LTV 提高到最高<0/>。 <1>了解更多信息</1>"
 
 #: src/modules/reserve-overview/ReserveEModePanel.tsx
-msgid "E-Mode increases your LTV for a selected category of assets, meaning that when E-mode is enabled, you will have higher borrowing power over assets of the same E-mode category which are defined by More Governance. You can enter E-Mode from your <0>Dashboard</0>. To learn more about E-Mode and applied restrictions in <1>FAQ</1> or <2>MoreMarkets Technical Paper</2>."
-msgstr "E-Mode会增加所选资产类别的LTV，这意味着当启用E-mode时，您将比More Governance定义的相同E-mode类别的资产拥有更高的借贷能力。您可以从 <0>仪表板</0>进入 E-Mode。要了解有关 E-Mode 和应用限制的更多信息，请参阅 <1>FAQ</1> 或 <2>MoreMarkets 技术论文</2>。"
+msgid "E-Mode increases your LTV for a selected category of assets, meaning that when E-mode is enabled, you will have higher borrowing power over assets of the same E-mode category which are defined by More Governance. You can enter E-Mode from your <0>Dashboard</0>. To learn more about E-Mode and applied restrictions in <1>FAQ</1> or <2>MORE Markets Technical Paper</2>."
+msgstr "E-Mode会增加所选资产类别的LTV，这意味着当启用E-mode时，您将比More Governance定义的相同E-mode类别的资产拥有更高的借贷能力。您可以从 <0>仪表板</0>进入 E-Mode。要了解有关 E-Mode 和应用限制的更多信息，请参阅 <1>FAQ</1> 或 <2>MORE Markets 技术论文</2>。"
 
 #: src/modules/governance/RepresentativesInfoPanel.tsx
 msgid "Edit"
@@ -1511,7 +1511,7 @@ msgstr "迁移"
 
 #: src/layouts/MobileMenu.tsx
 #: src/layouts/MoreMenu.tsx
-msgid "Migrate to MoreMarkets"
+msgid "Migrate to MORE Markets"
 msgstr ""
 
 #: src/components/TopInfoPanel/PageTitle.tsx
